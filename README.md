@@ -23,10 +23,18 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
+# DETAILED INFO:
+
 ![eh111](https://github.com/Dhanashreemullaithasan/InformationGathering/assets/94165415/05c4adc4-3fdd-4c94-83da-7a04074aafa6)
 
 ![eh112](https://github.com/Dhanashreemullaithasan/InformationGathering/assets/94165415/7ba531d4-527a-46d5-be25-18f57697836b)
 
+# FINDING IP:
+
+![Screenshot from 2023-09-25 10-51-01](https://github.com/Dhanashreemullaithasan/InformationGathering/assets/94165415/2816dfe7-2b57-41a5-8097-e04d5b8945df)
+
+
+# HISTORY OF WEBSITE:
 ![eh113](https://github.com/Dhanashreemullaithasan/InformationGathering/assets/94165415/0e00c94f-8721-4cd8-805d-8ad4187ed012)
 
 ![EH114](https://github.com/Dhanashreemullaithasan/InformationGathering/assets/94165415/104669f9-5d2b-480a-b251-8a5b1e2d4441)
